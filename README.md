@@ -1,6 +1,13 @@
 # Geophysics-informed-invertible-operator-networks-for-solving-Bayesian-geophysical-inverse-problem
 
-Code for: "Geophysics-informed invertible operator networks for solving Bayesian geophysical inverse problem" and "Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems"
+This repository contains the data used in the paper:
+
+**Geophysics-informed invertible operator networks for solving Bayesian geophysical inversion problems**
+
+Authors: Yangwen Zhang, Xintong Wang, Xiaofei Guan, Peng Yu  
+Journal/Conference: Manuscript in preparation; to be submitted  
+Year: 2026  
+DOI: Not available yet
 
 
 ## Citation
@@ -11,14 +18,3 @@ Code for: "Geophysics-informed invertible operator networks for solving Bayesian
   year={2026}
 }
 
-
-@article{guan2024efficient,
-  title={Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems},
-  author={Guan, Xiaofei and Wang, Xintong and Wu, Hao and Yang, Zihao and Yu, Peng},
-  journal={Machine Learning: Science and Technology},
-  volume={5},
-  number={3},
-  pages={035026},
-  year={2024},
-  publisher={IOP Publishing}
-}

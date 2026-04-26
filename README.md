@@ -1,6 +1,6 @@
 # Geophysics-informed-invertible-operator-networks-for-solving-Bayesian-geophysical-inverse-problem
 
-This repository contains the data used in the paper:
+This repository contains the code used in the paper:
 
 **Geophysics-informed invertible operator networks for solving Bayesian geophysical inversion problems**
 

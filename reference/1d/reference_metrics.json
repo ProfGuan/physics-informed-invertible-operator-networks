@@ -1,0 +1,71 @@
+{
+  "verification_status": "PASS",
+  "selected_global_index": 100000,
+  "selected_test_index": 0,
+  "random_seed": 20260702,
+  "posterior_sample_count": 512,
+  "device": "cpu",
+  "runtime_seconds": 0.22601970000050642,
+  "checkpoint_loaded": true,
+  "checkpoint_filename": "GI_ION_master/GI-INO/1D_inverse/1D_IND/models/GI-INO_model.pt",
+  "checkpoint_sha256": "b86b9ceeaecf8a39a145bb7687b55721361a3d1206ed3b289431dc04e0c69fd5",
+  "model1D_sha256": "d96fbb0f83673747919e2e0c755632c759b9d9a43838ff0a67ba311eed7154d4",
+  "phase_sha256": "5248dc2008119e0f9e2c938e6edb5cb51206cd91abd33ee5099e11fd8c883c88",
+  "parameter_mse": 0.006059379316866398,
+  "posterior_mean": [
+    0.4154936671257019,
+    0.6115804314613342,
+    0.760403573513031,
+    0.6977757215499878,
+    0.8061540126800537,
+    0.8234686255455017,
+    0.8739825487136841,
+    0.9214749336242676,
+    0.9217146635055542,
+    1.0299906730651855
+  ],
+  "posterior_std": [
+    0.008935747668147087,
+    0.029593251645565033,
+    0.07433737814426422,
+    0.08773437142372131,
+    0.12016012519598007,
+    0.10001514106988907,
+    0.12814390659332275,
+    0.17007942497730255,
+    0.1864025592803955,
+    0.0938219502568245
+  ],
+  "true_model": [
+    0.41367244720458984,
+    0.6292549967765808,
+    0.6579952239990234,
+    0.8255272507667542,
+    0.8698988556861877,
+    0.68736332654953,
+    0.9308467507362366,
+    0.9545666575431824,
+    0.9653645157814026,
+    0.9618129730224609
+  ],
+  "comparison_tolerance": 1e-07,
+  "comparison_diffs": {
+    "mse_abs_diff": 0.0,
+    "posterior_mean_max_abs_diff": 0.0,
+    "posterior_std_max_abs_diff": 0.0
+  },
+  "package_versions": {
+    "python": "3.11.14",
+    "torch": "2.5.1+cpu",
+    "numpy": "2.3.5",
+    "FrEIA": "0.2",
+    "matplotlib": "3.10.8",
+    "disba": "0.7.0",
+    "tqdm": "4.67.1"
+  },
+  "output_files": [
+    "outputs/verify_1d/metrics.json",
+    "outputs/verify_1d/posterior_summary.npz",
+    "outputs/verify_1d/result.png"
+  ]
+}

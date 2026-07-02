@@ -1,0 +1,6 @@
+numpy==2.3.5
+torch==2.5.1
+FrEIA==0.2
+matplotlib==3.10.8
+disba==0.7.0
+tqdm==4.67.1

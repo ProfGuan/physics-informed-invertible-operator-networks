@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated verification outputs
+outputs/
+
+# Local Zenodo staging
+release/zenodo_minimal_update/
+
+# Local virtual environments
+.venv/
